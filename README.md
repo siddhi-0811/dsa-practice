@@ -6,33 +6,34 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 0 | 17 | 0 | `2026-10-12` |
+| **18** | 0 | 18 | 0 | `2026-10-12` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (17)
+### DSA (18)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [898. Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0002 | [907. Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0003 | [909. Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0004 | [918. Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0005 | [920. Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0006 | [929. Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0007 | [931. Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0008 | [940. Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0009 | [942. Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
-| 0010 | [953. Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0011 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0012 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0013 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0014 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0015 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0016 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
-| 0017 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0001 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
+| 0002 | [898. Pattern 10](./DSA/General/pattern-10) | [CPP](./DSA/General/pattern-10/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0003 | [907. Pattern 11](./DSA/General/pattern-11) | [CPP](./DSA/General/pattern-11/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0004 | [909. Pattern 12](./DSA/General/pattern-12) | [CPP](./DSA/General/pattern-12/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0005 | [918. Pattern 13](./DSA/General/pattern-13) | [CPP](./DSA/General/pattern-13/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0006 | [920. Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0007 | [929. Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0008 | [931. Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0009 | [940. Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0010 | [942. Pattern 18](./DSA/General/pattern-18) | [CPP](./DSA/General/pattern-18/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-12` |
+| 0011 | [953. Pattern 2](./DSA/General/pattern-2) | [CPP](./DSA/General/pattern-2/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0012 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0013 | [984. Pattern 4](./DSA/General/pattern-4) | [CPP](./DSA/General/pattern-4/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0014 | [986. Pattern 5](./DSA/General/pattern-5) | [CPP](./DSA/General/pattern-5/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0015 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0016 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0017 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
+| 0018 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
 
 ---
 
