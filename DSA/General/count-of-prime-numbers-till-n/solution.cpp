@@ -8,9 +8,9 @@ public:
             for(int j=1; j<=i; j++){
                 if(i%j==0) count++;
             }
-            if (count<=2) prime++;
+            if (count==2) prime++;
             count=0;
         }
-        return prime-1;
+        return prime;
     }
 };
